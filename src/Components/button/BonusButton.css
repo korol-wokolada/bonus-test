@@ -1,0 +1,41 @@
+.bonusButton {
+  box-sizing: border-box;
+  background-color: white;
+  box-shadow: 0px 4px 8px 7px rgba(34, 60, 80, 0.2);
+  border-radius: 20px;
+  position: absolute;
+  top: 10%;
+  width: 88%;
+  height: 105px;
+  padding: 10px;
+  right: 6%;
+}
+.bonus-button-text {
+  margin: 0px;
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.fire {
+  width: 13px;
+  height: 17px;
+}
+.fire-bonus-text {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(151, 151, 151, 1);
+}
+.next-button-img {
+  background-color: white;
+  position: absolute;
+  top: 32%;
+  right: 10px;
+  border: none;
+}

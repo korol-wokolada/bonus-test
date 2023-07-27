@@ -1,0 +1,17 @@
+.wrapper {
+  padding-top: 25px;
+  display: flex;
+  justify-content: space-between;
+  height: 205px;
+  background: linear-gradient(0deg, #d2333e 50%, transparent 50%);
+}
+
+.inform-image {
+  width: 24px;
+  height: 24px;
+  margin-right: 25px;
+}
+
+.logo {
+  margin-left: 25px;
+}
